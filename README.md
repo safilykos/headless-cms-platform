@@ -1,9 +1,25 @@
-# Essencia Média - Plateforme éditoriale
+# Headless CMS platform (Strapi)
 
-Projet réalisé pour **Essencia Média** — Média en ligne, Alger.
+API-first content management: define content models and expose them through REST and GraphQL.
 
-- **Période :** 2022-01-10 au 2022-08-19
-- **Rôle :** conception et développement full-stack
-- **Stack :** Node.js, Strapi, React, PostgreSQL
+## Features
 
-Média en ligne algérois, Essencia avait besoin d'un back-office éditorial pour publier ses articles, gérer les rubriques et les médias sans dépendre d'un développeur à chaque mise à jour.
+- Content-type builder
+- Auto-generated REST and GraphQL APIs
+- Admin panel for editors
+- Media library
+- Role-based permissions
+- Internationalization and draft/publish
+
+## Tech stack
+
+**Node.js, Strapi, React, PostgreSQL**
+
+## Getting started
+
+- npm install
+- npm run develop
+
+## License
+
+See the LICENSE file included in this repository.
