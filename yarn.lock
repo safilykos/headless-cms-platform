@@ -9545,7 +9545,7 @@ __metadata:
   resolution: "@strapi/cloud-cli@workspace:packages/cli/cloud"
   dependencies:
     "@strapi/utils": "npm:5.56.0"
-    "@types/cli-progress": "npm:3.11.5"
+    "@types/cli-progress": "npm:3.11.6"
     "@types/eventsource": "npm:1.1.15"
     "@types/lodash": "npm:^4.14.191"
     "@types/node": "npm:20.19.41"
@@ -11658,12 +11658,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/cli-progress@npm:3.11.5":
-  version: 3.11.5
-  resolution: "@types/cli-progress@npm:3.11.5"
+"@types/cli-progress@npm:3.11.6":
+  version: 3.11.6
+  resolution: "@types/cli-progress@npm:3.11.6"
   dependencies:
     "@types/node": "npm:*"
-  checksum: 10c0/bf00f543ee677f61b12e390876df59354943d6c13d96640171528e9b7827f4edb7701cdd4675d6256d13ef9ee542731bd5cae585e1b43502553f69fc210dcb92
+  checksum: 10c0/d9a2d60b8fc6ccef73368fa20a23d5b16506808a81ec65f7e8eedf58d236ebaf2ab46578936c000c8e39dde825cb48a3cf9195c8b410177efd5388bcf9d07370
   languageName: node
   linkType: hard
 
